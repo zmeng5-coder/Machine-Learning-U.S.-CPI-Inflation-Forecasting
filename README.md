@@ -122,8 +122,7 @@ CPI-Inflation-Forecasting/
 ## Setup
 
 ```bash
-git clone https://github.com/your-username/CPI-Inflation-Forecasting.git](https://github.com/zmeng5-coder/Machine-Learning-U.S.-CPI-Inflation-Forecasting.git
-cd CPI-Inflation-Forecasting
+git clone https://github.com/zmeng5-coder/Machine-Learning-U.S.-CPI-Inflation-Forecasting
 pip install -r requirements.txt
 ```
 
