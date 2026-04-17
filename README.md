@@ -15,6 +15,7 @@ This project compares the forecasting performance of four approaches — from cl
 | ARIMAX | Time Series Econometrics | 1.752 |
 
 **Key finding:** XGBoost outperformed LSTM despite the sequential nature of the data, likely due to sample size constraints (~450 observations) limiting the LSTM's ability to generalise. All models underestimated the 2021–2023 inflation surge, reflecting a structural break caused by COVID-19 supply shocks — a limitation acknowledged in the analysis.
+
 ![Summary](figures/eda.png)
 ---
 
