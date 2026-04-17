@@ -106,8 +106,7 @@ LASSO eliminated M2 growth as a feature, while XGBoost retained it via its built
 ```
 CPI-Inflation-Forecasting/
 ├── CPI_v2.ipynb              # Main analysis notebook
-├── report/
-│   └── report.pdf            # Full LaTeX report
+├── report.pdf            # Full LaTeX report
 ├── figures/
 │   ├── eda.png               # Exploratory data analysis
 │   ├── lasso_coefficients.png
@@ -134,7 +133,7 @@ pip install -r requirements.txt
 export FRED_API_KEY=your_key_here
 ```
 
-Then run `CPI_v2.ipynb` top-to-bottom.
+Then run `CPI_ML.ipynb` top-to-bottom.
 
 ---
 
