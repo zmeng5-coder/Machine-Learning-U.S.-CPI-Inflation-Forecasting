@@ -106,7 +106,7 @@ LASSO eliminated M2 growth as a feature, while XGBoost retained it via its built
 ```
 CPI-Inflation-Forecasting/
 ├── CPI_v2.ipynb              # Main analysis notebook
-├── report.pdf            # Full LaTeX report
+├── Report.pdf            # Full LaTeX report
 ├── figures/
 │   ├── eda.png               # Exploratory data analysis
 │   ├── lasso_coefficients.png
